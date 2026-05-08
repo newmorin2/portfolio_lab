@@ -22,7 +22,7 @@ function App() {
   }
 
   const filteredProjects = projects.filter((project) =>
-    project.title.toLowerCase().includes(searchTerm.toLowerCase())
+    project.title.toLowerCase().includes(searchTerm.toLowerCase()) 
   );
 
   return (
