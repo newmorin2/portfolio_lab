@@ -1,4 +1,4 @@
-# Showcase Studio
+# Creative IO
 
 A single page application(SPA) built with react for a creative agency to showcase their portfolio projects.
 
